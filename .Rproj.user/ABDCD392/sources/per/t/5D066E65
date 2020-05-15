@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3566657902",
+    "hash" : "1306327933",
     "id" : "5D066E65",
-    "lastKnownWriteTime" : 1589510341,
-    "last_content_update" : 1589510341,
+    "lastKnownWriteTime" : 1589511471,
+    "last_content_update" : 1589511471052,
     "path" : "~/Desktop/Website/content/post/2020-05-14-the-marriage-between-python-and-r.md",
     "project_path" : "content/post/2020-05-14-the-marriage-between-python-and-r.md",
     "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
